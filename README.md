@@ -2,14 +2,14 @@
 
 ## 📊 Data Scientist | 🧑‍🏫 Educator | 🏋️ Bodybuilding Enthusiast
 
-I'm a passionate Data Scientist and Educator with a Master’s in Data Science from the University of British Columbia. I currently teach and develop curriculum as a Data Science Instructor and Subject Matter Expert at Lighthouse Labs.
+I'm a passionate Data Scientist and Educator with a Masters in Data Science from the University of British Columbia. I currently teach and develop curriculum as a Data Science Instructor and Subject Matter Expert at Lighthouse Labs.
 
 ### 🧰 Languages and Tools:
 
 - **Python** 🐍: Pandas, NumPy, SciPy, statsmodels, PyTorch, Scikit-Learn, and more.
 - **R** 📊: Tidyverse, Rstan, and developing apps with R Shiny.
 - **SQL/NoSQL** 🗃️: Proficient in managing databases with PostgreSQL and MongoDB.
-- **Data Visualization and Web Apps** 📈: Expertize in Matplotlib, Plotly, Dash, Streamlit, ggplot2, and Tableau.
+- **Data Visualization and Web Apps** 📈: Expertise in Matplotlib, Plotly, Dash, Streamlit, ggplot2, and Tableau.
 - **Machine Learning / AI** 🤖: Using libraries like XGBoost, Hugging Face Transformers, OpenAI, and LangChain.
 
 ### 🚀 Some of My Projects:
@@ -25,7 +25,7 @@ As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lect
 
 ### 🌱 I’m currently working on:
 
-- A quantitative analysis platform for the Oldschool Runescape economy. It's a mini stock market with a total real world value in the hundreds of millions - it even has its own [r/wallstreetbets-esque subreddit](https://www.reddit.com/r/GrandExchangeBets/)
+- A quantitative analysis platform for the Oldschool Runescape economy. It's a mini stock market with a total real world value in the hundreds of millions - it even has its own [r/wallstreetbets-esque subreddit](https://www.reddit.com/r/GrandExchangeBets/).
 
 ### 💬 Ask me about:
 
