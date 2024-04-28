@@ -6,22 +6,22 @@ I'm a passionate Data Scientist and Educator with a Master’s in Data Science f
 
 ### 🧰 Languages and Tools:
 
-- **Python** 🐍: Experienced with Pandas, NumPy, SciPy, statsmodels, PyTorch, Scikit-Learn, and more.
-- **R** 📊: Proficient in the Tidyverse, Rstan, and developing apps with R Shiny.
-- **SQL/NoSQL** 🗃️: Skilled in managing databases with PostgreSQL and MongoDB.
-- **Data Visualization and Web Apps** 📈: Expertise in Matplotlib, Plotly, Dash, Streamlit, ggplot2, and Tableau.
-- **Machine Learning / AI** 🤖: Using libraries like XGBoost, Hugging Face Transformers, OpenAI, and LangChain for transformative solutions.
+- **Python** 🐍: Pandas, NumPy, SciPy, statsmodels, PyTorch, Scikit-Learn, and more.
+- **R** 📊: Tidyverse, Rstan, and developing apps with R Shiny.
+- **SQL/NoSQL** 🗃️: Proficient in managing databases with PostgreSQL and MongoDB.
+- **Data Visualization and Web Apps** 📈: Expertize in Matplotlib, Plotly, Dash, Streamlit, ggplot2, and Tableau.
+- **Machine Learning / AI** 🤖: Using libraries like XGBoost, Hugging Face Transformers, OpenAI, and LangChain.
 
 ### 🚀 Some of My Projects:
 
-- **Flood Prediction System**: Designed a machine learning system to predict flood volumes in Canadian rivers using Python and R, significantly reducing prediction error and automating key processes. The systm is currently deployed by BGC Engineering in their software systems.
+- **Flood Prediction System**: Designed a machine learning system to predict flood volumes in Canadian rivers using Python and R, significantly reducing prediction error and automating key processes. The system is currently deployed by BGC Engineering in their software systems.
 - **SnoopChat Text-to-Speech System**: Developed a TTS system mimicking Snoop Dogg using GPT-3.5 and voice synthesis tools, with deployment on a Streamlit interface.
 - **Wordle Solver App**: A statistical solver for Wordle, built with Streamlit and NumPy, that optimizes guess efficiency.
 - **Macronutrient Tracker Dashboard**: An R Shiny Dashboard for tracking food intake against nutritional goals.
 
 ### 📚 Teaching and Mentoring:
 
-As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lectures, provide dedicated mentorship, and contribute extensively to curriculum development and maintenance, including developing our modules focusing on modern LLMs and AI and addressing student feedback on materials. 
+As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lectures, provide dedicated mentorship, and contribute extensively to curriculum development and maintenance, including developing our modules focusing on modern LLMs and AI and actively addressing student feedback on materials. 
 
 ### 🌱 I’m currently working on:
 
