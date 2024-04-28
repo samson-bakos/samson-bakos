@@ -14,7 +14,7 @@ I'm a passionate Data Scientist and Educator with a Master’s in Data Science f
 
 ### 🚀 Some of My Projects:
 
-- **Flood Prediction System**: Designed a machine learning system to predict flood volumes in Canadian rivers using Python and R, significantly reducing prediction error and automating key processes. Model is deployed by BGC Engineering in their software systems.
+- **Flood Prediction System**: Designed a machine learning system to predict flood volumes in Canadian rivers using Python and R, significantly reducing prediction error and automating key processes. The systm is currently deployed by BGC Engineering in their software systems.
 - **SnoopChat Text-to-Speech System**: Developed a TTS system mimicking Snoop Dogg using GPT-3.5 and voice synthesis tools, with deployment on a Streamlit interface.
 - **Wordle Solver App**: A statistical solver for Wordle, built with Streamlit and NumPy, that optimizes guess efficiency.
 - **Macronutrient Tracker Dashboard**: An R Shiny Dashboard for tracking food intake against nutritional goals.
