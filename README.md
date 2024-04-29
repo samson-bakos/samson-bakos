@@ -2,7 +2,7 @@
 
 ## 📊 Data Scientist | 🧑‍🏫 Educator | 🏋️ Bodybuilding Enthusiast
 
-I'm a passionate Data Scientist and Educator with an M.Sc. in Data Science, B.ASc. in Chemical Engineering and B.Ed in Science Education from the University of British Columbia. I currently teach and develop curriculum as a Data Science Instructor and Subject Matter Expert at Lighthouse Labs.
+I'm a passionate Data Scientist and Educator with an M.Sc. in Data Science, B.ASc. in Chemical Engineering, and B.Ed in Science Education from the University of British Columbia. I currently teach and develop curriculum as a Data Science Instructor and Subject Matter Expert at Lighthouse Labs.
 
 ### 🧰 Languages and Tools:
 
