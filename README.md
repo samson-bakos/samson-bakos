@@ -25,7 +25,7 @@ As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lect
 
 ### 🌱 I’m currently working on:
 
-- A quantitative analysis platform for the Oldschool Runescape economy. It's a mini stock market with a total real world value in the hundreds of millions - it even has its own [r/wallstreetbets-esque subreddit](https://www.reddit.com/r/GrandExchangeBets/).
+- A Power BI based platform to visualize my bodybuilding daily health and training data.
 
 ### 💬 Ask me about:
 
