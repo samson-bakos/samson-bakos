@@ -26,7 +26,7 @@ As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lect
 ### 🌱 I’m currently working on:
 
 - A Power BI based platform to visualize my bodybuilding daily health and training data.
-- Optimization of Electric Vehicle charging stations in Vancouver using current station locations and parking density from satellite images.
+- Optimization of electric vehicle charging stations in Vancouver using current station locations and parking density from satellite images.
 
 ### 💬 Ask me about:
 
