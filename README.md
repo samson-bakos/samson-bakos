@@ -21,7 +21,7 @@ I'm a passionate Data Scientist and Educator with an M.Sc. in Data Science, B.AS
 
 ### 📚 Teaching and Mentoring:
 
-As a Data Science Instructor at Lighthouse Labs, I deliver engaging virtual lectures, provide dedicated mentorship, and contribute extensively to curriculum development and maintenance, including developing our modules focusing on modern LLMs and AI and actively addressing student feedback on materials. 
+As a Data Science Instructor and SME at Lighthouse Labs, I deliver engaging virtual lectures, provide dedicated mentorship, and contribute extensively to curriculum development and maintenance, including developing our modules focusing on modern LLMs/AI and actively addressing student feedback on materials. 
 
 ### 🌱 I’m currently working on:
 
