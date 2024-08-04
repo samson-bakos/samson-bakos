@@ -6,11 +6,11 @@ I'm a passionate Data Scientist and Educator with an M.Sc. in Data Science, B.AS
 
 ### 🧰 Languages and Tools:
 
-- **Python** 🐍: Pandas, NumPy, SciPy, statsmodels, and more
+- **Python** 🐍: Pandas, NumPy, SciPy, statsmodels, etc.
 - **R** 📊: Tidyverse, RStan, R Shiny
-- **SQL/NoSQL** 🗃️: PostgreSQL and MongoDB
-- **Data Visualization and Web Apps** 📈: Matplotlib, Plotly, Dash, Streamlit, ggplot2, Tableau, and Power BI
-- **Machine Learning / AI** 🤖: Scikit-Learn, PyTorch, XGBoost, HF Transformers, ntlk, spaCy, gensim, and LangChain
+- **SQL/NoSQL** 🗃️: PostgreSQL, MongoDB
+- **Data Visualization and Web Apps** 📈: Power BI, Matplotlib, Plotly, Dash, Streamlit, ggplot2, Tableau
+- **Machine Learning / AI** 🤖: Scikit-Learn, PyTorch, XGBoost, Hugging Face, Transformers, ntlk, spaCy, gensim, and LangChain
 
 ### 🚀 Some of My Projects:
 
